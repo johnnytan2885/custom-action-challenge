@@ -9,4 +9,4 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run custom action
-        uses: YOUR_GITHUB_USER_NAME/YOUR_GITHUB_REPO_NAME@main
+        uses: johnnytan2885/custom-action-challenge@main
